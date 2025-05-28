@@ -1,0 +1,35 @@
+Q: How do I get started with Blaze?
+A: To get started with Blaze, sign up for an account and set up your workspace. Invite your team members, configure access controls, and integrate your social platforms like Twitter, Discord, and Telegram to begin leveraging Blaze's features.
+
+Q: How can I invite my team to Blaze?
+A: Navigate to the 'Team and Workspace Settings' section in your Blaze dashboard. From there, you can invite team members by entering their email addresses and assigning appropriate roles and permissions.
+
+Q: What integrations are available in Blaze?
+A: Blaze supports integrations with various platforms including Twitter, Discord, Telegram, and more. These integrations allow you to manage campaigns, analyze community engagement, and automate outreach across multiple channels.
+
+Q: How do I set up a custom bot in Blaze?
+A: In the 'Integrations' section of your Blaze dashboard, select 'Custom Bot'. Follow the provided instructions to configure your bot, including setting up webhooks and authentication tokens as required.
+
+Q: What is Wallet CRM in Blaze?
+A: Wallet CRM is a feature in Blaze that allows you to enrich wallet addresses with on-chain and Twitter insights. It helps in understanding your audience better by providing detailed information about wallet activities and associated social profiles.
+
+Q: How can I upload wallets to Wallet CRM for analysis?
+A: To upload wallets, go to the 'Wallet CRM' section in Blaze. Click on 'Upload Wallets' and choose your preferred method: paste wallet addresses directly, upload a CSV file, or import from a connected platform. Once uploaded, Blaze will process and enrich the data with relevant insights.
+
+Q: How do I enrich wallets with on-chain and Twitter insights using contract addresses?
+A: In the 'Wallet CRM' section, use the 'Enrich Wallets' feature. Enter the contract addresses you're interested in, and Blaze will fetch associated wallet data, including on-chain activities and linked Twitter profiles, providing a comprehensive view of your audience.
+
+Q: Where can I find FAQs about Wallet CRM?
+A: For frequently asked questions regarding Wallet CRM, visit the Blaze Help Center at: https://intercom.help/blaze-3d9c6d1123fd/en/collections/10364368-wallet-crm. This section provides detailed articles and guides to assist you with Wallet CRM features.
+
+Q: How do I manage access controls in Blaze?
+A: Access controls can be managed in the 'Team and Workspace Settings' section. Here, you can define roles, set permissions, and control what each team member can access within the Blaze platform.
+
+Q: How can I update topic definitions for Discord analytics?
+A: To update topic definitions, navigate to the 'Discord Analytics' section in your Blaze dashboard. Click on 'Topic Definitions' and modify the existing topics or add new ones to tailor the analytics to your community's conversations.
+
+Q: How do I start a Twitter DM campaign in Blaze?
+A: Go to the 'Campaigns' section and select 'New Campaign'. Choose 'Twitter DM' as the campaign type. Configure your audience, craft your message, and set the campaign parameters before launching.
+
+Q: What support resources are available for Blaze users?
+A: Blaze offers comprehensive support through its Gitbook documentation at https://docs.withblaze.app/blaze and the Help Center at https://intercom.help/blaze-3d9c6d1123fd/en/. These resources provide guides, FAQs, and tutorials to assist you in using Blaze effectively.
